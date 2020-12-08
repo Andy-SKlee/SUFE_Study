@@ -10,7 +10,7 @@
 년 | 월 | 일
 ---|---|---
 2020년 | 12월 | 7일
-년 | 월 | 일
+2020년 | 12월 | 8일
 년 | 월 | 일
 
 [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
