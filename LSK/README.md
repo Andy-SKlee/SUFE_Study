@@ -1,8 +1,10 @@
 # <이유한님> 캐글 스터디 커리큘럼  
 
 ## 목차
-1. [1st level. Titanic: Machine Learning from Disaster](#titanic-machine-learning-from-disaster)  
-2. [2nd level. Porto Seguro’s Safe Driver Prediction](#porto-seguro-safe-driver-prediction)
+1. [1.1 level. Titanic: Machine Learning from Disaster](#titanic-machine-learning-from-disaster)  
+2. [1.2 level. Porto Seguro’s Safe Driver Prediction](#porto-seguro-safe-driver-prediction)
+3. [1.3 level. Home Credit Default Risk](#home-credit-default-risk)
+4. [2.1 level. Costa Rican Household Poverty Level Prediction](#costa-rican-household-poverty-level-prediction)
 ## 1.Binary classification : Tabular data
 
 ### Titanic Machine Learning from Disaster
@@ -81,7 +83,7 @@
 년 | 월 | 일
 년 | 월 | 일
 
-### 3rd level. Home Credit Default Risk
+### Home Credit Default Risk
 
 [Introduction: Home Credit Default Risk Competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 
@@ -121,7 +123,7 @@
 
 ## 2.Multi-class classification : Tabular data
 
-### 1st level. Costa Rican Household Poverty Level Prediction
+### Costa Rican Household Poverty Level Prediction
 
 [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 
