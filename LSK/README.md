@@ -1,5 +1,5 @@
 # <이유한님> 캐글 스터디 커리큘럼
-
+[1. Titanic: Machine Learning from Disaster](#1st-level.-Titanic:-Machine-Learning-from-Disaster)
 ## 1.Binary classification : Tabular data
 
 ### 1st level. Titanic: Machine Learning from Disaster
