@@ -1,11 +1,11 @@
 # <이유한님> 캐글 스터디 커리큘럼  
 
 ## 목차
-1. [Titanic](#1st-level.-titanic:-machine-learning-from-disaster)  
-
+1. [1st level. Titanic: Machine Learning from Disaster](#titanic-machine-learning-from-disaster)  
+2. [2nd level. Porto Seguro’s Safe Driver Prediction](#porto-seguro-safe-driver-prediction)
 ## 1.Binary classification : Tabular data
 
-### 1st level. Titanic: Machine Learning from Disaster
+### Titanic Machine Learning from Disaster
 
 [타이타닉 튜토리얼 - Exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
 
@@ -43,7 +43,7 @@
 년 | 월 | 일
 년 | 월 | 일
 
-### 2nd level. Porto Seguro’s Safe Driver Prediction
+### Porto Seguro Safe Driver Prediction
 
 [Data Preparation & ExplorationPorto](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
 
