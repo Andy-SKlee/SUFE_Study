@@ -1,10 +1,33 @@
 # <이유한님> 캐글 스터디 커리큘럼  
 
 ## 목차
-1. [1.1 level. Titanic: Machine Learning from Disaster](#titanic-machine-learning-from-disaster)  
-2. [1.2 level. Porto Seguro’s Safe Driver Prediction](#porto-seguro-safe-driver-prediction)
-3. [1.3 level. Home Credit Default Risk](#home-credit-default-risk)
-4. [2.1 level. Costa Rican Household Poverty Level Prediction](#costa-rican-household-poverty-level-prediction)
+1. Binary classification : Tabular data  
+[1.1 level. Titanic: Machine Learning from Disaster](#titanic-machine-learning-from-disaster)  
+[1.2 level. Porto Seguro’s Safe Driver Prediction](#porto-seguro-safe-driver-prediction)  
+[1.3 level. Home Credit Default Risk](#home-credit-default-risk)  
+  
+2. Multi-class classification : Tabular data  
+[2.1 level. Costa Rican Household Poverty Level Prediction](#costa-rican-household-poverty-level-prediction)  
+3. Binary classification : Image classification  
+[3.1 level. Statoil/C-CORE Iceberg Classifier Challenge](#statoil-c-core-iceberg-classifier-challenge)  
+4. Multi-class classification : Image classification  
+[4.1 level. TensorFlow Speech Recognition Challenge](#tensorflow-speech-recognition-challenge)  
+5. Regression : Tabular data  
+[5.1 level. New York City Taxi Trip Duration](#new-york-city-taxi-trip-duration)  
+[5.2 level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](#zillow-prize-zillow-home-value-prediction-zestimate)  
+6. Object segmentation : Deep learning  
+[6.1 level. 2018 Data Science Bowl](#2018-data-science-bowl)  
+7. Natural language processing : classification, regression  
+[7.1 level. Spooky Author Identification](#spooky-author-identification)  
+[7.2 level. Mercari Price Suggestion Challenge](#mercari-price-suggestion-challenge)  
+[7.3 level. Toxic Comment Classification Challenge](#toxic-comment-classification-challenge)  
+8. Other dataset : anomaly detection, visualization  
+[8.1 level. Credit Card Fraud Detection](#credit-card-fraud-detection)  
+[8.2 level. Kaggle Machine Learning & Data Science Survey 2017](#kaggle-machine-learning-and-data-science-survey-2017)  
+
+
+
+
 ## 1.Binary classification : Tabular data
 
 ### Titanic Machine Learning from Disaster
@@ -154,7 +177,7 @@
 
 ## 3.Binary classification : Image classification
 
-### 1st level. Statoil/C-CORE Iceberg Classifier Challenge
+### Statoil C CORE Iceberg Classifier Challenge
 
 [Keras Model for Beginners (0.210 on LB)+EDA+R&D](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
 
@@ -194,7 +217,7 @@
 
 ## 4.Multi-class classification : Image classification
 
-### 1st level. TensorFlow Speech Recognition Challenge
+### TensorFlow Speech Recognition Challenge
 
 [Speech representation and data exploration](https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
 
@@ -225,7 +248,7 @@
 
 ## 5.Regression : Tabular data
 
-### 1st level. New York City Taxi Trip Duration
+### New York City Taxi Trip Duration
 
 [Dynamics of New York city - Animation](https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)
 
@@ -254,7 +277,7 @@
 년 | 월 | 일
 년 | 월 | 일
 
-### 2nd level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
+### Zillow Prize Zillow Home Value Prediction Zestimate
 
 [Simple Exploration Notebook - Zillow Prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)
 
@@ -294,7 +317,7 @@
 
 ## 6.Object segmentation : Deep learning
 
-### 1st level. 2018 Data Science Bowl
+### 2018 Data Science Bowl
 
 [Teaching notebook for total imaging newbies](https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies)
 
@@ -325,7 +348,7 @@
 
 ## 7.Natural language processing : classification, regression
 
-### 1st level. Spooky Author Identification
+### Spooky Author Identification
 
 [Spooky NLP and Topic Modelling tutorial](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial)
 
@@ -354,7 +377,7 @@
 년 | 월 | 일
 년 | 월 | 일
 
-### 2nd level. Mercari Price Suggestion Challenge
+### Mercari Price Suggestion Challenge
 
 [Mercari Interactive EDA + Topic Modelling](https://www.kaggle.com/thykhuely/mercari-interactive-eda-topic-modelling)
 
@@ -392,7 +415,7 @@
 년 | 월 | 일
 년 | 월 | 일
 
-### 3rd level. Toxic Comment Classification Challenge
+### Toxic Comment Classification Challenge
 
 [(For Beginners) Tackling Toxic Using Keras](https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras)
 
@@ -432,7 +455,7 @@
 
 ## 8.Other dataset : anomaly detection, visualization
 
-### 1st level. Credit Card Fraud Detection
+### Credit Card Fraud Detection
 
 [In depth skewed data classif. (93% recall acc now)](https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now)
 
@@ -461,7 +484,7 @@
 년 | 월 | 일
 년 | 월 | 일
 
-### 2nd level. Kaggle Machine Learning & Data Science Survey 2017
+### Kaggle Machine Learning and Data Science Survey 2017
 
 [Novice to Grandmaster](https://www.kaggle.com/ash316/novice-to-grandmaster)
 
