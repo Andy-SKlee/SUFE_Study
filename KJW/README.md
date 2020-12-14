@@ -38,8 +38,8 @@
 년 | 월 | 일
 ---|---|---
 2020년 | 12월 | 10일
-년 | 월 | 일
-년 | 월 | 일
+2020년 | 12월 | 12일
+2020년 | 12월 | 13일
 
 [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 
