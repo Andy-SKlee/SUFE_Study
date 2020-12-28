@@ -57,7 +57,7 @@
 ---|---|---
 2020년 | 12월 | 12일
 2020년 | 12월 | 16일
-년 | 월 | 일
+2020년 | 12월 | 28일
 
 [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
