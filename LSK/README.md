@@ -47,7 +47,7 @@
 년 | 월 | 일
 ---|---|---
 2020년 | 12월 | 11일
-년 | 월 | 일
+2021년 | 01월 | 02일
 년 | 월 | 일
 
 [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
