@@ -65,7 +65,7 @@
 년 | 월 | 일
 ---|---|---
 2021년 | 01월 | 06일
-년 | 월 | 일
+2021년 | 01월 | 07일
 년 | 월 | 일
 
 ### Porto Seguro Safe Driver Prediction
