@@ -76,7 +76,7 @@
 년 | 월 | 일
 ---|---|---
 2021년 | 01월 | 12일
-2021년 | 01월 | 13일
+년 | 월 | 일
 년 | 월 | 일
 
 [Interactive Porto Insights - A Plot.ly Tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
