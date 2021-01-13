@@ -66,7 +66,7 @@
 ---|---|---
 2021년 | 01월 | 06일
 2021년 | 01월 | 07일
-년 | 월 | 일
+2021년 | 01월 | 08일
 
 ### Porto Seguro Safe Driver Prediction
 
@@ -75,8 +75,8 @@
 <학습일시>
 년 | 월 | 일
 ---|---|---
-년 | 월 | 일
-년 | 월 | 일
+2021년 | 01월 | 12일
+2021년 | 01월 | 13일
 년 | 월 | 일
 
 [Interactive Porto Insights - A Plot.ly Tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
